@@ -1,5 +1,5 @@
 # Desafio Enviame
-Ejercicio 1 : consumidor simple realizado en Python para obtener capturas en formato JSON.
+Ejercicio 1 : consumidor simple realizado en Python para obtener capturas en formato JSON (consumer.py).
 
 Requerimientos: Python 2.7 o superior.
 
