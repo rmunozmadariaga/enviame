@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+    docker_python:
+        build: ./
+        command: python
+    redis:
+        build: ./
